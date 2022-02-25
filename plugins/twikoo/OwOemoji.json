@@ -162,163 +162,159 @@
   "滑稽": {
     "type": "image",
     "container": [
-      { "text": "原味稽", "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%8E%9F%E5%91%B3%E7%A8%BD.png\">" },
-      { "text": "还是算了", "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%BF%98%E6%98%AF%E7%AE%97%E4%BA%86.png" },
+      { "text": "原味稽", "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%8E%9F%E5%91%B3%E7%A8%BD.png\">" },
+      { "text": "还是算了", "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%BF%98%E6%98%AF%E7%AE%97%E4%BA%86.png\">" },
       {
         "text": "蓝纹稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%93%9D%E7%BA%B9%E7%A8%BD.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%93%9D%E7%BA%B9%E7%A8%BD.jpg\">"
       },
       {
         "text": "随稽应变",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E9%9A%8F%E7%A8%BD%E5%BA%94%E5%8F%98.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E9%9A%8F%E7%A8%BD%E5%BA%94%E5%8F%98.jpg\">"
       },
       {
         "text": "蠕动",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%A0%95%E5%8A%A8.gif\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%A0%95%E5%8A%A8.gif\">"
       },
       {
         "text": "束手无稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%9D%9F%E6%89%8B%E6%97%A0%E7%A8%BD.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%9D%9F%E6%89%8B%E6%97%A0%E7%A8%BD.jpg\">"
       },
       {
         "text": "微笑默叹以为妙绝",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%BE%AE%E7%AC%91%E9%BB%98%E5%8F%B9%E4%BB%A5%E4%B8%BA%E5%A6%99%E7%BB%9D.png\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%BE%AE%E7%AC%91%E9%BB%98%E5%8F%B9%E4%BB%A5%E4%B8%BA%E5%A6%99%E7%BB%9D.png\">"
       },
       {
         "text": "喝嘤料",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%96%9D%E5%98%A4%E6%96%99.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%96%9D%E5%98%A4%E6%96%99.jpg\">"
       },
       {
         "text": "暗中观察",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%9A%97%E4%B8%AD%E8%A7%82%E5%AF%9F.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%9A%97%E4%B8%AD%E8%A7%82%E5%AF%9F.jpg\">"
       },
       {
         "text": "高兴",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E9%AB%98%E5%85%B4.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E9%AB%98%E5%85%B4.jpg\">"
       },
       {
         "text": "惊稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%83%8A%E7%A8%BD.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%83%8A%E7%A8%BD.jpg\">"
       },
       {
         "text": "可这和我的帅有什么关系",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%8F%AF%E8%BF%99%E5%92%8C%E6%88%91%E7%9A%84%E5%B8%85%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%8F%AF%E8%BF%99%E5%92%8C%E6%88%91%E7%9A%84%E5%B8%85%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB.jpg\">"
       },
       {
         "text": "狱稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%8B%B1%E7%A8%BD.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%8B%B1%E7%A8%BD.jpg\">"
       },
       {
         "text": "梆",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%A2%86.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%A2%86.jpg\">"
       },
       {
         "text": "吃鱼摆摆",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%90%83%E9%B1%BC%E6%91%86%E6%91%86.gif\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%90%83%E9%B1%BC%E6%91%86%E6%91%86.gif\">"
       },
       {
-        "text": "跃跃欲试 3",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%B7%83%E8%B7%83%E6%AC%B2%E8%AF%95_3.gif\">"
+        "text": "跃跃欲试3",
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%B7%83%E8%B7%83%E6%AC%B2%E8%AF%95_3.gif\">"
       },
       {
         "text": "突然滑稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%AA%81%E7%84%B6%E6%BB%91%E7%A8%BD.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%AA%81%E7%84%B6%E6%BB%91%E7%A8%BD.jpg\">"
       },
       {
         "text": "扶墙怂",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%89%B6%E5%A2%99%E6%80%82.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%89%B6%E5%A2%99%E6%80%82.jpg\">"
       },
       {
         "text": "阔以",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E9%98%94%E4%BB%A5.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E9%98%94%E4%BB%A5.jpg\">"
       },
       {
         "text": "不得行",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E4%B8%8D%E5%BE%97%E8%A1%8C.jpg\">"
-      },
-      {
-        "text": "少儿不宜",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%B0%91%E5%84%BF%E4%B8%8D%E5%AE%9C.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E4%B8%8D%E5%BE%97%E8%A1%8C.jpg\">"
       },
       {
         "text": "稽日可期",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%A8%BD%E6%97%A5%E5%8F%AF%E6%9C%9F.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%A8%BD%E6%97%A5%E5%8F%AF%E6%9C%9F.jpg\">"
       },
       {
         "text": "哎",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%93%8E.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%93%8E.jpg\">"
       },
       {
         "text": "别看丢人",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%88%AB%E7%9C%8B%E4%B8%A2%E4%BA%BA.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%88%AB%E7%9C%8B%E4%B8%A2%E4%BA%BA.jpg\">"
       },
       {
-        "text": "地稽 2",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%9C%B0%E7%A8%BD_2.jpg\">"
+        "text": "地稽2",
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%9C%B0%E7%A8%BD_2.jpg\">"
       },
       {
         "text": "地稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%9C%B0%E7%A8%BD.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%9C%B0%E7%A8%BD.jpg\">"
       },
       {
         "text": "老阔有点扣",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%80%81%E9%98%94%E6%9C%89%E7%82%B9%E6%89%A3.gif\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%80%81%E9%98%94%E6%9C%89%E7%82%B9%E6%89%A3.gif\">"
       },
       {
         "text": "啊哈哈",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%95%8A%E5%93%88%E5%93%88.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%95%8A%E5%93%88%E5%93%88.jpg\">"
       },
       {
         "text": "无稽可奈",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%97%A0%E7%A8%BD%E5%8F%AF%E5%A5%88.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%97%A0%E7%A8%BD%E5%8F%AF%E5%A5%88.jpg\">"
       },
       {
         "text": "老实巴交",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%80%81%E5%AE%9E%E5%B7%B4%E4%BA%A4.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%80%81%E5%AE%9E%E5%B7%B4%E4%BA%A4.jpg\">"
       },
       {
         "text": "紧张",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%B4%A7%E5%BC%A0.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%B4%A7%E5%BC%A0.jpg\">"
       },
       {
         "text": "摇摆稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%91%87%E6%91%86%E7%A8%BD.gif\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%91%87%E6%91%86%E7%A8%BD.gif\">"
       },
       {
         "text": "一时滑稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E4%B8%80%E6%97%B6%E6%BB%91%E7%A8%BD.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E4%B8%80%E6%97%B6%E6%BB%91%E7%A8%BD.jpg\">"
       },
       {
         "text": "无法接受",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97.jpg\">"
       },
       {
         "text": "嘤雄豪稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%98%A4%E9%9B%84%E8%B1%AA%E7%A8%BD.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%98%A4%E9%9B%84%E8%B1%AA%E7%A8%BD.jpg\">"
       },
       {
         "text": "相视双稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%9B%B8%E8%A7%86%E5%8F%8C%E7%A8%BD.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%9B%B8%E8%A7%86%E5%8F%8C%E7%A8%BD.jpg\">"
       },
       {
         "text": "稽皮发麻",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%A8%BD%E7%9A%AE%E5%8F%91%E9%BA%BB.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%A8%BD%E7%9A%AE%E5%8F%91%E9%BA%BB.jpg\">"
       },
       {
-        "text": "地稽 3",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%9C%B0%E7%A8%BD_3.jpg\">"
+        "text": "地稽3",
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%9C%B0%E7%A8%BD_3.jpg\">"
       },
       {
         "text": "地稽委屈",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%9C%B0%E7%A8%BD%E5%A7%94%E5%B1%88.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%9C%B0%E7%A8%BD%E5%A7%94%E5%B1%88.jpg\">"
       },
       {
         "text": "地稽抚摸",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%9C%B0%E7%A8%BD%E6%8A%9A%E6%91%B8.gif\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%9C%B0%E7%A8%BD%E6%8A%9A%E6%91%B8.gif\">"
       },
       {
         "text": "绝望",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%BB%9D%E6%9C%9B.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E7%BB%9D%E6%9C%9B.jpg\">"
       },
       {
         "text": "气稽败坏",
@@ -326,39 +322,43 @@
       },
       {
         "text": "当场去世",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%BD%93%E5%9C%BA%E5%8E%BB%E4%B8%96.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%BD%93%E5%9C%BA%E5%8E%BB%E4%B8%96.jpg\">"
       },
       {
         "text": "喝酒",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%96%9D%E9%85%92.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%96%9D%E9%85%92.jpg\">"
       },
       {
         "text": "老衲摆摊算命",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%80%81%E8%A1%B2%E6%91%86%E6%91%8A%E7%AE%97%E5%91%BD.gif\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%80%81%E8%A1%B2%E6%91%86%E6%91%8A%E7%AE%97%E5%91%BD.gif\">"
       },
       {
         "text": "老哥，稳",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%80%81%E5%93%A5%EF%BC%8C%E7%A8%B3.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%80%81%E5%93%A5%EF%BC%8C%E7%A8%B3.jpg\">"
       },
       {
         "text": "自闭稽",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%87%AA%E9%97%AD%E7%A8%BD.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%87%AA%E9%97%AD%E7%A8%BD.jpg\">"
       },
       {
         "text": "无话可说",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%97%A0%E8%AF%9D%E5%8F%AF%E8%AF%B4.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%97%A0%E8%AF%9D%E5%8F%AF%E8%AF%B4.jpg\">"
       },
       {
         "text": "跃跃欲试",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%B7%83%E8%B7%83%E6%AC%B2%E8%AF%95.jpg\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%B7%83%E8%B7%83%E6%AC%B2%E8%AF%95.jpg\">"
       },
       {
-        "text": "跃跃欲试 2",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%B7%83%E8%B7%83%E6%AC%B2%E8%AF%95_2.jpg\">"
+        "text": "跃跃欲试2",
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%B7%83%E8%B7%83%E6%AC%B2%E8%AF%95_2.jpg\">"
       },
       {
         "text": "满脑子骚操作",
-        "icon": "<img src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%BB%A1%E8%84%91%E5%AD%90%E9%AA%9A%E6%93%8D%E4%BD%9C.gif\">"
+        "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E6%BB%A1%E8%84%91%E5%AD%90%E9%AA%9A%E6%93%8D%E4%BD%9C.gif\">"
+      },
+      {
+        "text": "双子向日稽",
+        "icon": "<img class=\"emojiX\" src=\"https://pic3.zhimg.com/50/v2-86ead53edce6465fa77b23903c318b6f_720w.webp\">"
       }
     ]
   }

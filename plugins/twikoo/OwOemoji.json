@@ -41,6 +41,9 @@
       { "icon": "🙂", "text": "" },
       { "icon": "🙃", "text": "" },
       { "icon": "😌", "text": "" },
+      { "icon": "😎", "text": "" },
+      { "icon": "😙", "text": "" },
+      { "icon": "😶", "text": "" },
       { "icon": "😍", "text": "" },
       { "icon": "😘", "text": "" },
       { "icon": "😜", "text": "" },
@@ -71,11 +74,13 @@
       { "icon": "🙏", "text": "" },
       { "icon": "🍦", "text": "" },
       { "icon": "🍉", "text": "" },
-      { "icon": "😣", "text": "" }
+      { "icon": "😣", "text": "" },
+      { "icon": "🌍", "text": "" }
     ]
   },
   "Bilibili": {
     "type": "image",
+    "width": "1.5em",
     "container": [
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png\">", "text": "tv_doge" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/imaegoo/emotion/bilibili/a8111ad55953ef5e3be3327ef94eb4a39d535d06.png\">", "text": "tv_亲亲" },
@@ -102,6 +107,7 @@
   },
   "Tieba": {
     "type": "image",
+    "width": "1.5em",
     "container": [
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji@1.0.0/tieba/what.png\">", "text": "Tie_what" },
       { "icon": "<img src=\"https://cdn.jsdelivr.net/gh/volantis-x/cdn-emoji@1.0.0/tieba/%E4%B8%8D%E9%AB%98%E5%85%B4.png\">", "text": "Tie_不高兴" },
@@ -144,6 +150,7 @@
   },
   "童童": {
     "type": "image",
+    "width": "1.5em",
     "container": [
       { "icon": "<img src=\"https://www.mcbbs.net/static/image/smiley/tong/....png\">", "text": "bb_..." },
       { "icon": "<img src=\"https://www.mcbbs.net/static/image/smiley/tong/doge.png\">", "text": "bb_doge" },
@@ -161,6 +168,7 @@
   },
   "滑稽": {
     "type": "image",
+    "width": "auto",
     "container": [
       { "text": "原味稽", "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E5%8E%9F%E5%91%B3%E7%A8%BD.png\">" },
       { "text": "还是算了", "icon": "<img class=\"emojiX\" src=\"https://cdn.jsdelivr.net/gh/qwqcode/huaji/%E8%BF%98%E6%98%AF%E7%AE%97%E4%BA%86.png\">" },
